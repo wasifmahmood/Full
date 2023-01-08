@@ -1,0 +1,293 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "firstName": "yousaf",
+      "lastName": "ramzan",
+      "FatherName": "Ramzan",
+      "Address": "Lahore",
+      "Gender": "male",
+      "DOB": "10-10-2000",
+      "state": "pakistan",
+      "city": "lahore",
+      "course": "quran",
+      "email": "yousaf@gmail.com",
+      "password": "1122"
+    }
+  ],
+  "teachers": [
+    {
+      "title": "Islamic Teacher",
+      "firstName": "sajidhussain",
+      "lastName": "1212",
+      "fatherName": "din0",
+      "gender": "10",
+      "experience": "One Year",
+      "aboutExperience": "20",
+      "details": "30",
+      "password": "4",
+      "additionalInformation": "60",
+      "country": "70",
+      "city": "80",
+      "skypeId": "90",
+      "dob": "2022-12-01",
+      "number": "100",
+      "address": "40",
+      "email": "100@gmail.com",
+      "id": 2,
+      "adress": "5"
+    },
+    {
+      "title": null,
+      "firstName": "wasif",
+      "lastName": "Mahmood",
+      "fatherName": "Mahood-UL-Hassan",
+      "gender": "Male",
+      "experience": null,
+      "aboutExperience": "I have experience for teaching",
+      "details": "empty",
+      "password": "123",
+      "additionalInformation": "60",
+      "country": "Pakistan",
+      "city": "Lahore",
+      "skypeId": "123",
+      "dob": "2022-12-22",
+      "number": "0301-3963678",
+      "address": "H no E 307 St No 2 Nadirabad Badian Road Lahore",
+      "email": "mateenzain2022@gmail.com",
+      "id": 3
+    },
+    {
+      "title": "Molana sb",
+      "firstName": "1",
+      "lastName": "2",
+      "fatherName": "3",
+      "gender": "4",
+      "experience": "Two Year Plus",
+      "aboutExperience": "6",
+      "details": "7",
+      "password": "8",
+      "additionalInformation": "01",
+      "country": "02",
+      "city": "03",
+      "skypeId": "04",
+      "dob": "2022-12-05",
+      "number": "06",
+      "address": "9",
+      "email": "zain2022@gmail.com",
+      "id": 4
+    },
+    {
+      "title": "Islamic Teacher",
+      "firstName": "1",
+      "lastName": "2",
+      "fatherName": "3",
+      "gender": "4",
+      "experience": "Six Months Plus",
+      "aboutExperience": "5",
+      "details": "6",
+      "password": "7",
+      "additionalInformation": "9",
+      "country": "10",
+      "city": "11",
+      "skypeId": "12",
+      "dob": "2022-12-13",
+      "number": "14",
+      "address": "8",
+      "email": "wasif@gmail.com",
+      "id": 5
+    },
+    {
+      "title": "Molana sb",
+      "firstName": "01",
+      "lastName": "02",
+      "fatherName": "03",
+      "gender": "04",
+      "experience": "One Year",
+      "aboutExperience": "05",
+      "details": "06",
+      "password": "07",
+      "additionalInformation": "09",
+      "country": "010",
+      "city": "011",
+      "skypeId": "012",
+      "dob": "2022-12-01",
+      "number": "013",
+      "address": "08",
+      "email": "014@gmail.com",
+      "id": 6
+    },
+    {
+      "title": "Molana sb",
+      "firstName": "shah",
+      "lastName": "2",
+      "fatherName": "3",
+      "gender": "4",
+      "experience": "Two Year",
+      "aboutExperience": "6",
+      "details": "7",
+      "password": "8",
+      "address": "9",
+      "additionalInformation": "10",
+      "country": "11",
+      "city": "12",
+      "skypeId": "13",
+      "dob": "2022-12-30",
+      "number": "14",
+      "email": "15@gmail.com",
+      "id": 7
+    },
+    {
+      "title": "Molana sb",
+      "firstName": "hamna",
+      "lastName": "waheed",
+      "fatherName": "123",
+      "gender": "f",
+      "experience": "Two Year",
+      "aboutExperience": "full",
+      "details": "why",
+      "password": "100",
+      "address": "abc",
+      "additionalInformation": "additionalInformation",
+      "country": "pak",
+      "city": "lhr",
+      "skypeId": "l00",
+      "dob": "2022-12-30",
+      "number": "123445",
+      "email": "n@gmail.com",
+      "id": 8
+    }
+  ],
+  "admin": [
+    {
+      "email": "admin@gmail.com",
+      "password": "12345"
+    }
+  ],
+  "post": [
+    {
+      "teacherId": 2,
+      "name": "wasif",
+      "title": "wasiii",
+      "body": "i'm good men",
+      "id": 1
+    },
+    {
+      "teacherId": 2,
+      "name": "jjj",
+      "title": "kkk",
+      "body": "lll",
+      "id": 2
+    },
+    {
+      "teacherId": 4,
+      "name": "11",
+      "title": "22",
+      "body": "33",
+      "id": 3
+    },
+    {
+      "teacherId": 4,
+      "name": "wasif",
+      "title": "wasiii",
+      "body": "i'm good men",
+      "id": 4
+    },
+    {
+      "teacherId": 4,
+      "name": "jjj",
+      "title": "kkk",
+      "body": "lll",
+      "id": 5
+    },
+    {
+      "teacherId": 5,
+      "name": "11",
+      "title": "22",
+      "body": "33",
+      "id": 6
+    },
+    {
+      "teacherId": 5,
+      "name": "wasif",
+      "title": "wasiii",
+      "body": "i'm good men",
+      "id": 7
+    },
+    {
+      "teacherId": 5,
+      "name": "jjj",
+      "title": "kkk",
+      "body": "Wasif",
+      "id": 8
+    },
+    {
+      "teacherId": 5,
+      "name": "11",
+      "title": "22",
+      "body": "333",
+      "id": 9
+    },
+    {
+      "teacherId": 5,
+      "name": "creative solutions",
+      "title": "creative",
+      "body": " solutions",
+      "id": 10
+    },
+    {
+      "teacherId": 5,
+      "name": "wasif",
+      "title": "asif",
+      "body": "wasif",
+      "id": 11
+    },
+    {
+      "teacherId": 5,
+      "name": "1",
+      "title": "11",
+      "body": "111",
+      "id": 12
+    },
+    {
+      "teacherId": 5,
+      "name": "1",
+      "title": "11",
+      "body": "111",
+      "id": 13
+    },
+    {
+      "name": "wasif",
+      "title": "creative ",
+      "body": "1",
+      "id": 14
+    },
+    {
+      "teacherId": 6,
+      "name": "00",
+      "title": "11",
+      "body": "22",
+      "id": 15
+    },
+    {
+      "name": "ali",
+      "title": "ali",
+      "body": "ali",
+      "id": 17
+    },
+    {
+      "name": "1",
+      "title": "2",
+      "body": "3",
+      "teacherId": 6,
+      "id": 16
+    },
+    {
+      "name": "smu",
+      "title": "sahahah",
+      "body": "shah abdul khaliq",
+      "teacherId": 7,
+      "id": 18
+    }
+  ]
+}
